@@ -1,0 +1,94 @@
+.netflix {
+
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.top {
+
+    display: flex;
+    gap: 700px;
+}
+
+.signin {
+
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.main-content {
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    padding-bottom: 130px;
+
+}
+
+h1, h2, p {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+body {
+
+    background-color: black;
+}
+
+button {
+
+    background-color: red;
+    color: white;
+    border: solid 1px red;
+    border-radius: 3px;
+}
+
+.tv {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+    flex-direction: row;
+    gap: 150px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+
+.width {
+
+    width: 202px;
+    font-size: 20px;
+}
+
+.tvimg {
+
+    height: 230px;
+  
+}
+
+.box {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+}
+
+.st {
+
+    height: 200px;
+    margin-right: 70px;
+}
+
+.box2 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+
+}
